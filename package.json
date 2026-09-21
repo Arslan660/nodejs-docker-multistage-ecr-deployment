@@ -1,4 +1,4 @@
-{
+
   "name": "testapp",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll=false",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
